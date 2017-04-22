@@ -1,0 +1,22 @@
+{
+  "name": "Bank Accounts",
+  "type": "bank-account",
+  "value": [
+    {
+      "name": "Moazzam Khan",
+      "accountNumber": "01699797698",
+      "bank": "ICICI Pvt ltd",
+      "ifsc": "ICICI0169",
+      "loginId": "moazzamkhan",
+      "password": "pa55w0rd"
+    },
+    {
+      "name": "Moazzam Khan",
+      "accountNumber": "2342427698",
+      "bank": "SBI Pvt ltd",
+      "ifsc": "SBI0123",
+      "loginId": "moazzamkhan",
+      "password": "pa55w0rd"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+.test {
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Courgette', cursive;
+    font-family: 'Delius', cursive;
+    font-family: 'Aladin', cursive;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#file-content-box {
+    font-family: 'Roboto', sans-serif;
+}
+
+[data-type] label {
+    margin-bottom: 5px;
+    padding: 0 5px 0 0;
+    color: #777;
+    font-size: 0.8em;
+    color:green;
+}
+
+[data-type='web-account'], [data-type='bank-account'] {
+    padding: 10px 20px;
+}
+
+[data-type='web-account'] .form-control, [data-type='bank-account'] .form-control {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #ddd;
+    font-size: 1.2em;
+}
+
+.CodeMirror {
+    font-family: 'Source Code Pro', monospace;
+    height: 100%;
+}

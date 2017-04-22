@@ -1,0 +1,19 @@
+{
+  "name": "Web Accounts",
+  "type": "web-account",
+  "value": [
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/",
+      "loginId": "moazzam.khan@live.com",
+      "password": "Pa55w0rd"
+    },
+    {
+      "title": "Google",
+      "url": "https://google.com/",
+      "loginId": "moazzam.khan@gmail.com",
+      "password": "Pa55w0rd"
+    }
+
+  ]
+}
